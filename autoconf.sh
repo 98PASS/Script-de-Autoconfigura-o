@@ -4,7 +4,7 @@ sudo apt-get update;
 
 for pacote in `cat apt.txt` ; do sudo apt install $pacote -y ; done;
 for pacote in `cat snap.txt` ; do sudo snap install $pacote; done;
-
+for pacote in `cat pip3.txt` ; do pip3 install $pacote; done;
 
 #cd ~/Downloads
 

@@ -4,3 +4,4 @@ ssh
 mariadb
 git
 default-jdk
+python3-pip
