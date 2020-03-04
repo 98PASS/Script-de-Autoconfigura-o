@@ -1,16 +1,12 @@
 #!/bin/bash
 
-sudo apt-get update; sudo apt-get upgrade -y;
+sudo apt-get update;
 
-sudo apt install net-tools -y;
-sudo apt install ubuntu-make -y;
-sudo apt install ssh -y;
-sudo apt install  mariadb  -y;
-sudo apt install git -y;
-sudo apt install default-jdk -y;
-sudo snap install gimp;
+for pacote in `cat apt.txt` ; do sudo apt install $pacote -y ; done;
+for pacote in `cat snap.txt` ; do sudo snap install $pacote; done;
 
 
 #cd ~/Downloads
 
-sudo apt-get upgrade -y
+sudo apt-get upgrade -y;
+echo "Acabou! Seus Programas Estão Prontos :)"

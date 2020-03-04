@@ -1,0 +1,6 @@
+net-tools
+ubuntu-make
+ssh
+mariadb
+git
+default-jdk
