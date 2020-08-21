@@ -3,3 +3,5 @@ ssh
 git
 default-jdk
 python3-pip
+gnome-tweak-tool
+grub-customizer
