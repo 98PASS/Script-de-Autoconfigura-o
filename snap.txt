@@ -1,1 +1,2 @@
-gimp
+krita
+blender --classic

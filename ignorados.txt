@@ -1,0 +1,4 @@
+ubuntu-make
+lmms
+gimp
+mariadb
