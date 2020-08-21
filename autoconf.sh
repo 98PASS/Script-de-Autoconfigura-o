@@ -14,5 +14,6 @@ echo -e "\033[0;34m""\nInstalando pacotes do PIP para Python3:  \033[0m"
 sudo apt-get upgrade -fy;
 echo -e "\033[0;32m""\nAcabou! Seus Programas Estão Prontos :)\n"
 
-cd ~/Downloads/
-wget https://downloads.tuxfamily.org/godotengine/3.2.2/Godot_v3.2.2-stable_x11.64.zip
+wget -P ~/Downloads/ https://downloads.tuxfamily.org/godotengine/3.2.2/Godot_v3.2.2-stable_x11.64.zip
+
+wget -O ~/Downloads/Telegram_Linux.xz https://telegram.org/dl/desktop/linux
