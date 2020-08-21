@@ -17,3 +17,5 @@ echo -e "\033[0;32m""\nAcabou! Seus Programas Estão Prontos :)\n"
 wget -P ~/Downloads/ https://downloads.tuxfamily.org/godotengine/3.2.2/Godot_v3.2.2-stable_x11.64.zip
 
 wget -O ~/Downloads/Telegram_Linux.xz https://telegram.org/dl/desktop/linux
+
+wget -P ~/Downloads/ https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.17.7391.tar.gz
