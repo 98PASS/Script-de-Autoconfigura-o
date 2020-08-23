@@ -1,2 +1,3 @@
 krita
 blender --classic
+discord
