@@ -8,3 +8,4 @@ grub-customizer
 remmina
 rhythmbox
 wine
+calibre
