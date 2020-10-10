@@ -9,3 +9,5 @@ remmina
 rhythmbox
 wine
 calibre
+virtualbox
+virtualbox-ext-pack
