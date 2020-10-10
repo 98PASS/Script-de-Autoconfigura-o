@@ -11,3 +11,4 @@ wine
 calibre
 virtualbox
 virtualbox-ext-pack
+wireshark-qt
