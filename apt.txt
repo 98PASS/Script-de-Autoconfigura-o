@@ -13,3 +13,4 @@ virtualbox
 virtualbox-ext-pack
 wireshark-qt
 postgresql-contrib
+dotnet-sdk-5.0
