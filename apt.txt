@@ -12,3 +12,4 @@ calibre
 virtualbox
 virtualbox-ext-pack
 wireshark-qt
+postgresql-contrib
