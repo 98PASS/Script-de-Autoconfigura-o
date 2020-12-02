@@ -1,6 +1,6 @@
+git
 net-tools
 ssh
-git
 default-jdk
 python3-pip
 gnome-tweak-tool
@@ -9,8 +9,9 @@ remmina
 rhythmbox
 wine
 calibre
-virtualbox
-virtualbox-ext-pack
-wireshark-qt
 postgresql-contrib
 dotnet-sdk-5.0
+synaptic
+wireshark-qt
+virtualbox
+virtualbox-ext-pack
