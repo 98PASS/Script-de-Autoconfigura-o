@@ -10,6 +10,8 @@ echo -e "Baixando Itens da Internet"
 
 wget -P ~/Downloads/ https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
 
+wget -O ~/Downloads/ https://download.calibre-ebook.com/linux-installer.sh
+
 #sudo dpkg --install ~/Downloads/packages-microsoft-prod.deb
 
 sudo apt-get update;

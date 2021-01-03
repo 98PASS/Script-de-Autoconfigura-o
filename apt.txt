@@ -8,7 +8,6 @@ grub-customizer
 remmina
 rhythmbox
 wine
-calibre
 postgresql-contrib
 dotnet-sdk-5.0
 synaptic
