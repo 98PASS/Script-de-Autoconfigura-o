@@ -1,4 +1,3 @@
-git
 net-tools
 ssh
 default-jdk
@@ -8,8 +7,6 @@ grub-customizer
 remmina
 rhythmbox
 wine
-postgresql-contrib
-dotnet-sdk-5.0
 synaptic
 wireshark-qt
 virtualbox

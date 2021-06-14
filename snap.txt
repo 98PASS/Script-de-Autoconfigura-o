@@ -2,4 +2,3 @@ krita
 discord
 cmake --classic
 blender --classic
-code --classic

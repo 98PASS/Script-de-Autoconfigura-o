@@ -8,7 +8,7 @@ echo -e "Baixando Itens da Internet"
 
 #wget -P ~/Downloads/ https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.17.7391.tar.gz
 
-wget -P ~/Downloads/ https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
+#wget -P ~/Downloads/ https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
 
 sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
 
