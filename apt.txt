@@ -3,6 +3,7 @@ ssh
 default-jdk
 python3-pip
 gnome-tweak-tool
+gnome-panel
 grub-customizer
 remmina
 rhythmbox
