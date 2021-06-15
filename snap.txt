@@ -1,3 +1,4 @@
+telegram-desktop
 krita
 discord
 cmake --classic
