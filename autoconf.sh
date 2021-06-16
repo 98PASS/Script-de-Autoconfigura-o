@@ -7,6 +7,7 @@ echo -e "Baixando Itens da Internet"
 sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin &
 
 wget -O ~/Downloads/Drupal_Latest.zip https://www.drupal.org/download-latest/zip &
+#baixa a versão mais recente do Drupal
 
 sudo apt-get update;
 
