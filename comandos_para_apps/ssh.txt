@@ -1,0 +1,2 @@
+Parar: sudo service ssh stop
+Iniciar: sudo service ssh start

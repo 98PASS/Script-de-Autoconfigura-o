@@ -1,0 +1,5 @@
+Parar: sudo service apache2 stop
+Iniciar: sudo service apache2 start
+Reiniciar: sudo service apache2 restart
+Desativar: sudo systemctl stop apache2 ; sudo systemctl disable apache2
+Ativar: sudo systemctl enable apache2 ; sudo systemctl start apache2

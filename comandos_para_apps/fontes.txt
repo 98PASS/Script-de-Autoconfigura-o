@@ -1,0 +1,13 @@
+https://www.edivaldobrito.com.br/instale-lamp-no-linux-e-tenha-um-servidor-web-em-seu-pc/
+https://docs.bitnami.com/virtual-machine/faq/get-started/enable-ssh/
+https://www.digitalocean.com/community/tutorials/como-instalar-a-pilha-linux-apache-mysql-php-lamp-no-ubuntu-18-04-pt
+
+
+caso não estejam funcionando os temas dos ícones:
+Most likely those apps are installed as snaps and the associated .desktop launchers have hard-coded paths for icons.
+
+You can check whether the apps indeed are installed from snap packages by running
+
+snap list
+
+If that's the case, then you should find .desktop launchers for those apps in the /var/lib/snapd/desktop/applications/ directory. Copy the associated launchers to your ~/.local/share/applications/ directory and open with a text editor. Then change the Icon= line to Icon=telegram and so on.
