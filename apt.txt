@@ -1,4 +1,5 @@
 net-tools
+curl
 unrar-free
 ssh
 default-jdk
@@ -7,10 +8,11 @@ gnome-tweak-tool
 gnome-shell-extensions
 grub-customizer
 remmina
-rhythmbox
+rhythmnbox
 wine
 lamp-server^
 apache2
+phpmyadmin
 mysql-server
 synaptic
 wireshark-qt

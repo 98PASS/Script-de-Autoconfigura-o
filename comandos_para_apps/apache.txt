@@ -1,5 +1,14 @@
+sites ficam em /var/www/
+CONFIGURAR HOST: 	ao colocar um site dentro de uma pasta em /var/www/ 
+			copie o arquivo de host com outro nome para fazer a configuração:
+				sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/nome_do_site.conf
+				há um arquivo de exemplo .conf nesta pasta
+				use o comando a2ensite para ativar os sites
+
 Parar: sudo service apache2 stop
 Iniciar: sudo service apache2 start
 Reiniciar: sudo service apache2 restart
 Desativar: sudo systemctl stop apache2 ; sudo systemctl disable apache2
 Ativar: sudo systemctl enable apache2 ; sudo systemctl start apache2
+apache2ctl -v
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04

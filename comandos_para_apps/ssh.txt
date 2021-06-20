@@ -1,2 +1,7 @@
+chaves ficam em ~/.ssh/
+
 Parar: sudo service ssh stop
 Iniciar: sudo service ssh start
+Reiniciar: sudo service ssh restart
+Desativar: sudo systemctl stop ssh ; sudo systemctl disable ssh
+Ativar: sudo systemctl enable shh ; sudo systemctl start shh
