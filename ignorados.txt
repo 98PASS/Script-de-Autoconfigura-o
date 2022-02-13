@@ -2,3 +2,14 @@ ubuntu-make
 lmms
 gimp
 mariadb
+
+
+default-jdk
+python3-pip
+wine
+lamp-server^
+apache2
+phpmyadmin
+mysql-server
+remmina
+
