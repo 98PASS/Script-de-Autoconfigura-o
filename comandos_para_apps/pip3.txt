@@ -1,0 +1,10 @@
+opencv-python
+numpy
+matplotlib
+pandas
+pytorch
+scikit-learn
+cx_Freeze
+pygubu
+Flask
+openpyxl

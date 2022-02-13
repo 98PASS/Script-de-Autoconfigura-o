@@ -1,5 +1,3 @@
 telegram-desktop
-krita
 discord
-cmake --classic
-blender --classic
+docker
